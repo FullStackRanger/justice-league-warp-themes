@@ -1,0 +1,33 @@
+# Superman - Justice League Theme
+# Download background image from: https://wallpapers.com or search "Superman DC wallpaper"
+# Place image as: ~/.local/share/warp-terminal/themes/justice-league/superman.yaml
+
+name: "Superman"
+accent: "#DC0D28"
+background: "#001A33"
+foreground: "#E0E6FF"
+details: darker
+
+background_image:
+  path: "justice-league/superman.jpg"
+  opacity: 20
+
+terminal_colors:
+  normal:
+    black: "#001A33"
+    red: "#DC0D28"
+    green: "#FFD700"
+    yellow: "#FFC30B"
+    blue: "#0047AB"
+    magenta: "#CC0000"
+    cyan: "#4682B4"
+    white: "#F0F8FF"
+  bright:
+    black: "#003366"
+    red: "#FF1A33"
+    green: "#FFED4E"
+    yellow: "#FFD700"
+    blue: "#4169E1"
+    magenta: "#FF0000"
+    cyan: "#87CEEB"
+    white: "#FFFFFF"

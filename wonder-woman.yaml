@@ -1,0 +1,33 @@
+# Wonder Woman - Justice League Theme
+# Download background image from: https://wallpapers.com or search "Wonder Woman DC wallpaper"
+# Place image as: ~/.local/share/warp-terminal/themes/justice-league/wonder-woman.jpg
+
+name: "Wonder Woman"
+accent: "#DC143C"
+background: "#1A0F14"
+foreground: "#FFD7A8"
+details: darker
+
+background_image:
+  path: "justice-league/wonder-woman.jpg"
+  opacity: 20
+
+terminal_colors:
+  normal:
+    black: "#1A0F14"
+    red: "#DC143C"
+    green: "#FFD700"
+    yellow: "#FFA500"
+    blue: "#00008B"
+    magenta: "#8B0000"
+    cyan: "#B8860B"
+    white: "#FFE4C4"
+  bright:
+    black: "#4A2F34"
+    red: "#FF4757"
+    green: "#FFE66D"
+    yellow: "#FFB84D"
+    blue: "#4682B4"
+    magenta: "#CD5C5C"
+    cyan: "#DAA520"
+    white: "#FFF8DC"

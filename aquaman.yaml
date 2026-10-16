@@ -1,0 +1,33 @@
+# Aquaman - Justice League Theme
+# Download background image from: https://wallpapers.com or search "Aquaman DC wallpaper"
+# Place image as: ~/.local/share/warp-terminal/themes/justice-league/aquaman.jpg
+
+name: "Aquaman"
+accent: "#FF8C00"
+background: "#001F3F"
+foreground: "#B8E6E6"
+details: darker
+
+background_image:
+  path: "justice-league/aquaman.jpg"
+  opacity: 20
+
+terminal_colors:
+  normal:
+    black: "#001F3F"
+    red: "#CD5C5C"
+    green: "#2E8B57"
+    yellow: "#FFD700"
+    blue: "#0077BE"
+    magenta: "#4682B4"
+    cyan: "#00CED1"
+    white: "#E0FFFF"
+  bright:
+    black: "#003D5C"
+    red: "#F08080"
+    green: "#3CB371"
+    yellow: "#FFA500"
+    blue: "#00BFFF"
+    magenta: "#5F9EA0"
+    cyan: "#00FFFF"
+    white: "#F0FFFF"

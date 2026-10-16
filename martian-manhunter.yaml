@@ -1,0 +1,33 @@
+# Martian Manhunter - Justice League Theme
+# Download background image from: https://wallpapers.com or search "Martian Manhunter DC wallpaper"
+# Place image as: ~/.local/share/warp-terminal/themes/justice-league/martian-manhunter.jpg
+
+name: "Martian Manhunter"
+accent: "#FF4500"
+background: "#0F2A0F"
+foreground: "#90EE90"
+details: darker
+
+background_image:
+  path: "justice-league/martian-manhunter.jpg"
+  opacity: 20
+
+terminal_colors:
+  normal:
+    black: "#0F2A0F"
+    red: "#8B4513"
+    green: "#228B22"
+    yellow: "#DAA520"
+    blue: "#00008B"
+    magenta: "#8B008B"
+    cyan: "#008B8B"
+    white: "#F0FFF0"
+  bright:
+    black: "#2F4A2F"
+    red: "#A0522D"
+    green: "#32CD32"
+    yellow: "#FFD700"
+    blue: "#0000CD"
+    magenta: "#9932CC"
+    cyan: "#00CED1"
+    white: "#F5FFFA"

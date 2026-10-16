@@ -1,0 +1,16 @@
+# Background images (too large for git, users download separately)
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/

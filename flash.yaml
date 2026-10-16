@@ -1,0 +1,33 @@
+# Flash - Justice League Theme
+# Download background image from: https://wallpapers.com or search "Flash DC wallpaper"
+# Place image as: ~/.local/share/warp-terminal/themes/justice-league/flash.jpg
+
+name: "Flash"
+accent: "#FFFF00"
+background: "#8B0000"
+foreground: "#FFF8DC"
+details: darker
+
+background_image:
+  path: "justice-league/flash.jpg"
+  opacity: 20
+
+terminal_colors:
+  normal:
+    black: "#2F0000"
+    red: "#DC143C"
+    green: "#FFD700"
+    yellow: "#FFFF00"
+    blue: "#8B0000"
+    magenta: "#FF4500"
+    cyan: "#FF8C00"
+    white: "#FFF5EE"
+  bright:
+    black: "#4F0000"
+    red: "#FF0000"
+    green: "#FFE44D"
+    yellow: "#FFFF66"
+    blue: "#B22222"
+    magenta: "#FF6347"
+    cyan: "#FFA500"
+    white: "#FFFAF0"

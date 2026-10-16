@@ -1,0 +1,33 @@
+# Batman - Justice League Theme
+# Download background image from: https://wallpapers.com or search "Batman DC wallpaper"
+# Place image as: ~/.local/share/warp-terminal/themes/justice-league/batman.jpg
+
+name: "Batman"
+accent: "#FFD700"
+background: "#0A0A0A"
+foreground: "#C0C0C0"
+details: darker
+
+background_image:
+  path: "justice-league/batman.jpg"
+  opacity: 20
+
+terminal_colors:
+  normal:
+    black: "#000000"
+    red: "#8B0000"
+    green: "#2F4F2F"
+    yellow: "#FFD700"
+    blue: "#191970"
+    magenta: "#483D8B"
+    cyan: "#2F4F4F"
+    white: "#D3D3D3"
+  bright:
+    black: "#1C1C1C"
+    red: "#B22222"
+    green: "#556B2F"
+    yellow: "#FFDF00"
+    blue: "#000080"
+    magenta: "#6A5ACD"
+    cyan: "#708090"
+    white: "#E8E8E8"

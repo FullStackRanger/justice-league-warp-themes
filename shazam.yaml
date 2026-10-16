@@ -1,0 +1,33 @@
+# Shazam - Justice League Theme
+# Download background image from: https://wallpapers.com or search "Shazam DC wallpaper"
+# Place image as: ~/.local/share/warp-terminal/themes/justice-league/shazam.jpg
+
+name: "Shazam"
+accent: "#FFD700"
+background: "#8B0000"
+foreground: "#FFFACD"
+details: darker
+
+background_image:
+  path: "justice-league/shazam.jpg"
+  opacity: 20
+
+terminal_colors:
+  normal:
+    black: "#2F0000"
+    red: "#DC143C"
+    green: "#FFD700"
+    yellow: "#FFFF00"
+    blue: "#0000CD"
+    magenta: "#8B0000"
+    cyan: "#F0E68C"
+    white: "#FFFAF0"
+  bright:
+    black: "#4F0000"
+    red: "#FF0000"
+    green: "#FFE66D"
+    yellow: "#FFFF66"
+    blue: "#4169E1"
+    magenta: "#B22222"
+    cyan: "#FFFFE0"
+    white: "#FFFFFF"

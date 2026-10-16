@@ -1,0 +1,33 @@
+# Green Lantern - Justice League Theme
+# Download background image from: https://wallpapers.com/green-lantern-pictures
+# Place image as: ~/.local/share/warp-terminal/themes/justice-league/green-lantern.jpg
+
+name: "Green Lantern"
+accent: "#00FF00"
+background: "#0A2F0F"
+foreground: "#B4E7B4"
+details: darker
+
+background_image:
+  path: "justice-league/green-lantern.jpg"
+  opacity: 20
+
+terminal_colors:
+  normal:
+    black: "#0A2F0F"
+    red: "#00AA00"
+    green: "#00FF00"
+    yellow: "#7FFF00"
+    blue: "#00CC66"
+    magenta: "#33FF33"
+    cyan: "#00FFAA"
+    white: "#E0FFE0"
+  bright:
+    black: "#1F4F1F"
+    red: "#33CC33"
+    green: "#66FF66"
+    yellow: "#99FF33"
+    blue: "#00FF99"
+    magenta: "#66FF99"
+    cyan: "#99FFCC"
+    white: "#F0FFF0"
