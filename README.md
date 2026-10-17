@@ -2,6 +2,46 @@
 
 A collection of 8 Warp terminal themes based on DC Comics' Justice League characters, featuring character-specific color schemes and support for background images at 20% opacity.
 
+![Justice League Banner](https://img.shields.io/badge/DC-Justice%20League-blue?style=for-the-badge&logo=dc)
+![Warp](https://img.shields.io/badge/Warp-Terminal-00D9FF?style=for-the-badge)
+![Themes](https://img.shields.io/badge/Themes-8-success?style=for-the-badge)
+
+## 📸 Screenshot Gallery
+
+### Green Lantern
+![Green Lantern Theme](./screenshots/green-lantern.png)
+*Emerald energy with 20% opacity background*
+
+### Wonder Woman
+![Wonder Woman Theme](./screenshots/wonder-woman.png)
+*Amazonian warrior theme with red and gold*
+
+### Superman
+![Superman Theme](./screenshots/superman.png)
+*Hope and justice in blue and red*
+
+### Batman
+![Batman Theme](./screenshots/batman.png)
+*Dark knight of Gotham with gold accents*
+
+### Aquaman
+![Aquaman Theme](./screenshots/aquaman.png)
+*King of Atlantis with ocean depths*
+
+### Flash
+![Flash Theme](./screenshots/flash.png)
+*Speed force lightning in red and yellow*
+
+### Martian Manhunter
+![Martian Manhunter Theme](./screenshots/martian-manhunter.png)
+*Last son of Mars with green and red*
+
+### Shazam
+![Shazam Theme](./screenshots/shazam.png)
+*Thunder and lightning with magical energy*
+
+---
+
 ## Themes Included
 
 1. **Green Lantern** - Bright green energy theme with emerald accents
